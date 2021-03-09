@@ -1,2 +1,2 @@
-# Venture_Capital
-Projects from EntryLevel.ai
+# Venture_Capital_Analyst
+Project completed with EntryLevel.ai 
