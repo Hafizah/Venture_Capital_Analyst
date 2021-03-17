@@ -1,8 +1,7 @@
-# Venture_Capital_Analyst
+# Venture Capital Analyst
 Project with EntryLevel.ai 
 
 ## Week 1 
-Getting into Venture Capital
 
 Day 1: VC\
 Day 2: What it takes\
@@ -11,7 +10,6 @@ Day 4: VC terms part 2\
 Day 5: Questionaire
 
 ## Week 2
-Market Analysis
 
 Day 6: What is market analysis?\
 Day 7: Analyzing market and the customers\
