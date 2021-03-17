@@ -4,7 +4,7 @@ Project with EntryLevel.ai
 ## Week 1 
 Getting into Venture Capital
 
-Day 1: VC
+Day 1: VC\
 Day 2: What it takes
 Day 3: VC terms part 1
 Day 4: VC terms part 2
